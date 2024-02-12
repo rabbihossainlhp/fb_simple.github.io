@@ -1,0 +1,100 @@
+body{
+    width: 90%;
+}
+
+.main .form{
+    background-color: white;
+    width: 450px;
+    height: 380px;
+    margin-left: 750px;
+    margin-top: -280px;
+    border-radius: 10px;
+    border: 1px solid rgb(202, 195, 195);
+    box-shadow: -2px -2px  3px rgb(172, 165, 165),
+    2px 2px 3px rgb(170, 162, 162);
+
+}
+
+.main .form h4,h5,#a_different{
+    text-align: center;
+}
+
+.main .form #space_1,#space_2{
+    width: 90%;
+    margin-top: 20px;
+    margin-left: 20x;
+    padding: 15px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    border:1px solid black;
+    margin-left: 20px;
+    font-size: 15px;
+}
+
+.main .form #space_2{
+    margin-top: 10px;
+}
+.main .form h4{
+    border: 1px solid black;
+    background-color: rgb(3, 112, 236);
+    width: 84%;
+    margin-left: 20px;
+    border-radius: 10px;
+    padding: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    cursor: pointer;
+    color: white;
+    margin-bottom: 0px;
+}
+
+.main .form #a_different{
+    margin-bottom: 15px;
+    color: rgb(3, 112, 236);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+.main .form h5{
+    background-color: rgb(21, 174, 10);
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+    width: 50%;
+    border-radius: 10px;
+    margin-left: 110px;
+    font-size: 20px;
+    color: white;
+    padding: 18px;
+    margin-bottom: 40px;
+}
+
+.main .form hr{
+    width: 90%;
+    color: white;
+}
+
+.discript{
+    margin-top: 200px;
+    margin-left: 35px;
+    font-size: 78px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(3, 112, 236);
+
+}
+#discript{
+    font-size: 20px;
+    color: black;
+    font-family: none;
+    margin-left: 35px;
+    margin-top: -39px;
+    font-size: 34px;
+}
+   
+
+
+.last_msg{
+    text-align: end;
+    margin-right: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+}
